@@ -1,5 +1,8 @@
 # Interactive Dot Pattern Generator
 
+![image](https://github.com/Diogojfbraga/Dynamic-Dot-Pattern-Generator/assets/67931865/f65e068c-1edb-483d-a845-33ecf6e3121c)
+
+
 This project is an interactive dot pattern generator that utilizes Perlin and Simplex noise functions to determine the color and movement of dots on a canvas. The combination of these noise functions creates smooth, continuous, and natural-looking random values, providing an organic feel to the generated patterns.
 
 ## Features
